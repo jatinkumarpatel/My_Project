@@ -41,4 +41,3 @@ jobs:
           echo test, and deploy your project.
           echo ${{ github.event }}
           echo "${{ github.event_name}}"
-          echo "${{ GITHUB_CONTEXT }}"
